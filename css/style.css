@@ -1,6 +1,6 @@
 
-iv.gallery {
-    margin: 15px;
+div.gallery {
+    margin: 20px;
     border: 1px solid #cccccc;
     float: left;
     width: 300px;
@@ -9,10 +9,10 @@ iv.gallery {
   
   div.gallery:hover {
     border: 1px solid #ccc;
+    background-color: rgb(154, 229, 244);
   }
   
   div.gallery img {
-    width: 80%;
     height: auto;
     margin: 0 auto;
   }
@@ -27,6 +27,8 @@ iv.gallery {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+    margin: 30px;
+    background-color: (rgb(255, 255, 255));
   }
 
   h1{
@@ -34,5 +36,14 @@ iv.gallery {
     margin-bottom: 30px;
     margin-right: 30px;
     margin-left: 30px;
+    word-spacing: 10px;
+    background-color: rgb(99, 5, 5);
+    color: rgb(255, 255, 255);
   }
+
+  h2{
+    margin-left: 30%;
+    color: navy;
+  }
+
   
