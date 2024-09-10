@@ -1,10 +1,13 @@
 
-div.gallery {
+    div.gallery {
     margin: 20px;
     border: 1px solid #cccccc;
     float: left;
     width: 300px;
     text-align: center;
+    margin-top: 2%;
+  margin-bottom: 2%;
+
   }
   
   div.gallery:hover {
@@ -27,8 +30,7 @@ div.gallery {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-    margin: 30px;
-    background-color: (rgb(255, 255, 255));
+    border: 20px;
   }
 
   h1{
@@ -42,8 +44,9 @@ div.gallery {
   }
 
   h2{
-    margin-left: 30%;
+    margin-left: 50%;
     color: navy;
   }
+
 
   
